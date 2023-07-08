@@ -11,7 +11,7 @@ font-family: 'Open Sans', sans-serif;
     background-color: orangered;
     color: white;
     border-radius: 5px;
-    padding: 15px 19px;
+    padding: 12px 17px;
     border: 0;
     font-size: 20px;
     font-weight:70px ;
@@ -23,6 +23,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
     
 }
 .nav-title{
@@ -41,4 +42,16 @@ nav li{
 nav a{
     text-decoration: none;
     color: #181818;
+}
+/* header style */
+.header{
+    background-color: #FFF8F3;
+}
+.baner{
+    padding:30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.baner .profile-picture{
+    width: 400px;
 }
