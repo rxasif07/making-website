@@ -182,4 +182,23 @@ footer{
     background: #FFF8F3;
     padding: 130px 200px;
     margin-top: 100px;
+    gap: 100px;
+}
+.fotter-colam{
+    width: 50%;
+
+}
+
+.contact input, textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #181818;
+    border-radius: 5px;
+    border: 0px;
+
+}
+.socal-links a{
+    margin-right: 24px;
+    margin-top: 7px;
 }
