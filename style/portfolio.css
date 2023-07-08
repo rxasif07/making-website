@@ -92,6 +92,11 @@ nav a{
     font-size: 30px;
     font-weight: 700px;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
 
 
 /* about section */
@@ -104,4 +109,15 @@ nav a{
 }
 .section-decription{
     text-align: center;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.about-info{
+    text-align: center;
+}
+#what-i-do{
+    padding: 30px 150px;
 }
