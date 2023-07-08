@@ -135,7 +135,7 @@ main section {
   
 }
 .skil{
-  background-color: #FFF8F3;
+  background-color:white;
   height:250px;
   width: 230px;
   padding: 20px;
@@ -155,4 +155,24 @@ main section {
     color: #181818;
     font-size: 30px;
     font-weight: 700px;
+}
+.rasume-container{
+    display: flex;
+    gap: 50px;
+}
+.rasumee-item-drecpition,.rasumi-item-instetut{
+    color: #181818;
+}
+.rasume-colam-title{
+    color: #181818;
+    font-size: 25px;
+    font-weight: 700px;
+    margin: 15px 0px;
+}
+.rasume-container hr{
+    margin: 30px;
+}
+.dowenlode-cv{
+    text-align: center;,
+    margin-top: 50px;
 }
